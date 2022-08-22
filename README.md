@@ -46,7 +46,7 @@ ____________________________________
 
 Ваш проект запустился на http://127.0.0.1:8000/
 
-Полная документация ([redoc.yaml](https://github.com/leks20/api_yatube/blob/master/static/redoc.yaml)) доступна по адресу http://localhost:8000/redoc/
+Полная документация ([redoc.yaml](https://github.com/epselont/api_final_yatube/tree/master/yatube_api/static)) доступна по адресу http://localhost:8000/redoc/
 
 С помощью команды *pytest* вы можете запустить тесты и проверить работу модулей
 
